@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-
+#test GH Action
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
